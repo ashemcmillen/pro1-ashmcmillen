@@ -126,28 +126,4 @@
       align-items: center;
       font-size: 12px;
     }
-    
-body {
-      margin: 0;
-      padding: 24px;
-      background-color: #14082b;
-      background-image:
-        radial-gradient(circle at 20% 20%, rgba(255, 0, 170, 0.35), transparent 40%),
-        radial-gradient(circle at 80% 30%, rgba(0, 240, 255, 0.35), transparent 40%),
-        linear-gradient(180deg, #1b0a3a 0%, #090314 100%);
-      font-family: "Courier New", Courier, monospace;
-      color: #111111;
-    }
-
-.silkscreen-regular {
-  font-family: "Silkscreen", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.silkscreen-bold {
-  font-family: "Silkscreen", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
 
